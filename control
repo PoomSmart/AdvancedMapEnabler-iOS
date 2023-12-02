@@ -1,11 +1,11 @@
-Package: com.ps.advancedmapenabler
+Package: com.ps.advancedmapenabler-rootless
 Name: Advanced Map Enabler
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: Enable Advanced Map (globe) on unsupported iOS 15 devices
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Description: Enable Advanced Map (globe) on unsupported iPadOS 17 devices
 Maintainer: PoomSmart
 Author: PoomSmart
 Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Depends: mobilesubstrate, firmware (>= 15.0)
 Depiction: https://poomsmart.github.io/repo/depictions/advancedmapenabler.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/advancedmapenabler.json
